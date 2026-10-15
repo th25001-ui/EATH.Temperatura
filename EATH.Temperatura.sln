@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EATH.Temperatura", "EATH.Temperatura\EATH.Temperatura.csproj", "{B16E9923-3759-4B30-B06F-E771AD8C8423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EATH.Temperatura.UnitTestMSTest", "EATH.Temperatura.UnitTestMSTest\EATH.Temperatura.UnitTestMSTest.csproj", "{D7104FDE-9A73-4786-969D-2E65E6032CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16E9923-3759-4B30-B06F-E771AD8C8423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16E9923-3759-4B30-B06F-E771AD8C8423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16E9923-3759-4B30-B06F-E771AD8C8423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16E9923-3759-4B30-B06F-E771AD8C8423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7104FDE-9A73-4786-969D-2E65E6032CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7104FDE-9A73-4786-969D-2E65E6032CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7104FDE-9A73-4786-969D-2E65E6032CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7104FDE-9A73-4786-969D-2E65E6032CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B25EBA-6A1B-4176-9A29-149F2B1FFB88}
+	EndGlobalSection
+EndGlobal
