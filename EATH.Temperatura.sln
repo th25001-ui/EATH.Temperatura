@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EATH.Temperatura", "EATH.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EATH.Temperatura.UnitTestMSTest", "EATH.Temperatura.UnitTestMSTest\EATH.Temperatura.UnitTestMSTest.csproj", "{D7104FDE-9A73-4786-969D-2E65E6032CB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EATH.Temperatura.UnitTestxUnit", "EATH.Temperatura.UnitTestxUnit\EATH.Temperatura.UnitTestxUnit.csproj", "{676CFBBA-B655-447E-8C01-ABD4E2652454}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D7104FDE-9A73-4786-969D-2E65E6032CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7104FDE-9A73-4786-969D-2E65E6032CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7104FDE-9A73-4786-969D-2E65E6032CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676CFBBA-B655-447E-8C01-ABD4E2652454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676CFBBA-B655-447E-8C01-ABD4E2652454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676CFBBA-B655-447E-8C01-ABD4E2652454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676CFBBA-B655-447E-8C01-ABD4E2652454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
